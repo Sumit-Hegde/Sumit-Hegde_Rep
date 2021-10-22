@@ -2,6 +2,7 @@
 {
 	padding: 5px;
 	border-width: 1px;
+	border-color: black;
 	margin: 2px;
 	box-sizing:border-box;
 }
