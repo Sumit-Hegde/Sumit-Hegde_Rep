@@ -1,0 +1,106 @@
+body
+{
+	font-family: sans-serif;
+	color: #fff;
+	background-color: #6c6c73;
+	font-size: 16px;
+}
+
+#header-nav 
+{
+	background-color: #00008b;
+	border-radius: 0;
+	border: 0;
+	height: 4em;
+}
+.navbar-brand h1
+{
+	color:gold;
+	position: relative;
+	left: 10px;
+	top: -25px;
+	text-shadow: 1px 1px 1px #222;
+}
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+	text-decoration: none;
+}
+#nav-list
+{
+	margin-top: 10px;
+}
+#nav-list a
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background: lightpink;
+	border: 3px gold solid;
+color: #000000;
+text-align: center;
+}
+#nav-list a:hover
+{
+	background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar
+{
+	border: 2px solid #C0C0C0;
+}
+.navbar-header:hover button.navbar-toggle:hover, .navbar-header:hover .icon-bar:hover
+{
+	border: 2px solid black;
+	background: #00008b;
+}
+.navbar-header button.navbar-toggle
+{
+	clear: both;
+	margin-top: -35px;
+}
+@media (min-width: 1200px)
+{
+
+}
+@media (min-width: 992px) and (max-width: 1199px)
+{
+
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+
+}
+@media (max-width: 767px)
+{
+
+}
+.text-center
+{ 
+	margin-top: 15px;
+	font-size: 30px;
+	color: peachpuff;
+}
+.Parag
+{
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: 5px darkblue solid;
+	color: black;
+	background: yellowgreen;
+	text-align: center;
+	max-width: 100%;
+}
+#para
+{
+font-size: 30px;
+margin: auto;
+margin-top: 4px;
+padding: 3px;
+background: #fd897e;
+width: fit-content;
+}
+#p1
+{
+	margin: auto;
+	max-width: 80%;
+text-align: justify-all;
+}
